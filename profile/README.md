@@ -1,9 +1,5 @@
 ## Chookpen
 
-### We make software
+### We've migrated to a self hosted Gitea instance!
 
-The Chookpen browser is our main project, find out more at https://chookpen.online
-
-We want to create tools that just do what they say on the box.
-
-Check back soon for more cool stuff!
+**See https://git.maxwellj.xyz/max for more interesting things. Not much is going to happen here anymore, so see you there!**
